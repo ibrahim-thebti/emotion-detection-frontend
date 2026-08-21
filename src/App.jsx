@@ -61,7 +61,7 @@ export default function App() {
   return (
     <section className="main">
       <h1>What does your face say?</h1>
-      <p>Emotion detection is a web application that uses the Gemini API to analyze facial expressions and infer emotions. It can be used to improve user experience, enhance security, and provide insights into human behavior.</p>
+      <p>Emotion Classifier is a web application that uses the Gemini API to analyze facial expressions and infer emotions. It can be used to improve user experience, enhance security, and provide insights into human behavior.</p>
       <p>© Ibrahim Thebti</p>
       <p className="social-links">
         <a href="https://www.linkedin.com/in/ibrahim-thebti" target="_blank" rel="noreferrer" aria-label="LinkedIn" title="LinkedIn">
